@@ -7,8 +7,8 @@ Er ermöglicht, spielerisch Tanzschritte mittels einer Fussmatte und konkreten A
 ### Spielmodi
 
 Es gibt **zwei Modi**:
-  - Lernmodus
-  - Freestyle
+- Lernmodus
+- Freestyle
 
 #### Lernmodus
 
@@ -55,19 +55,21 @@ Um dieses Projekt nachzubauen, benötigst du:
 **Board:** 
 * [Ein Arduino Nano ESP32](https://store.arduino.cc/products/nano-esp32-with-headers) 
 * 5 Modulino Distanzsensoren
-* Ein USB-C cable 
-* Ein USB-C power bank
+* Ein USB-C Kabel 
+* Eine USB-C Powerbank
 
 ### Software
 * [MicroPython](https://micropython.org/)
 * [Arduino Lab for MicroPython](https://labs.arduino.cc/en/labs/micropython)
 * [Arduino MicroPython Installer](https://labs.arduino.cc/en/labs/micropython-installer)
-* ...
+
 
 ### Bibliotheken
-* [MicroPython-Button](https://github.com/ubidefeo/MicroPython-Button)
 * [MicroPython I2C 16x2 LCD driver](https://github.com/ubidefeo/micropython-i2c-lcd)
-* ...
+* [sh1106 OLED Library](https://github.com/robert-hh/SH1106/)
+* [DFPlayer Mini Library für MicroPython](https://github.com/sebromero/micropython-dfplayer)
+* [Modulino Distance] https://github.com/arduino/arduino-modulino-mpy/blob/main/docs/api.md#modulino.distance.ModulinoDistance)
+
 
 ## Aufbau / Installation
 
