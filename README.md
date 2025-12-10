@@ -58,7 +58,7 @@ In beiden Modi spielt der DFPlayer passende Salsa-Musik ab:
 Um dieses Projekt nachzubauen, benötigst du:
 
 ### Hardware 
-**Taco:** 
+**Taco** 
 * [Ein Arduino Nano ESP32](https://store.arduino.cc/products/nano-esp32-with-headers)
 * Ein Dual Button Unit 
 * Ein Grove LCD Display 16x2 
@@ -67,7 +67,7 @@ Um dieses Projekt nachzubauen, benötigst du:
 * Ein Battery Pack 
 * Ein Grove hub 
 
-**Board:** 
+**Board** 
 * [Ein Arduino Nano ESP32](https://store.arduino.cc/products/nano-esp32-with-headers) 
 * 5 Modulino Distanzsensoren
 * Ein USB-C Kabel 
