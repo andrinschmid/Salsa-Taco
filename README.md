@@ -49,7 +49,7 @@ Der Freestyle-Modus erlaubt freies Tanzen, ohne Bewertung oder Levelstruktur.
 3.	Wenn du bereit bist zu tanzen, drücke den roten Knopf erneut.
 4.	Der Taco spielt Musik ab und du kannst dich frei bewegen.
 
-## Musik
+### Musik
 In beiden Modi spielt der DFPlayer passende Salsa-Musik ab:
 - Im Lernmodus aendert sich die Musik pro Level
 - Im Freestyle laeuft die Musik zufällig.
