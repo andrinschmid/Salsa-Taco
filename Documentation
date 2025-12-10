@@ -42,16 +42,22 @@ Im Freestyle-Modus kannst du tanzen wie du willst.
 ## Requirements
 To build this project you will need:
 
-### Hardware
+### Hardware 
+**Taco:** 
 * [An Arduino Nano ESP32](https://store.arduino.cc/products/nano-esp32-with-headers)
-* A Grove RGB LCD Display 16x2
-* An RGB LED Ring
-* 2 Buttons
-* A soldering iron
-* Solder
-* USB-C cable
+* A Dual Button Unit 
+* A Grove LCD Display 16x2 
+* An OLED Display SH1106 
+* A DFPlayer Mini MP3 Player incl. Speaker
+* A Battery Pack 
+* A Grove hub 
+
+**Board:** 
+* [An Arduino Nano ESP32](https://store.arduino.cc/products/nano-esp32-with-headers) 
+* 5 Distance Sensors
+* A USB-C cable 
 * A USB-C power bank
-* ...
+
 ### Software
 * [MicroPython](https://micropython.org/)
 * [Arduino Lab for MicroPython](https://labs.arduino.cc/en/labs/micropython)
