@@ -3,39 +3,59 @@ Der **SALSA TACO** ist ein sprechender Tanzlehrer in Form eines Tacos.
 Er ermöglicht, spielerisch Tanzschritte mittels einer Fussmatte und konkreten Anweisungen zu erlernen und mit passender Musik zu praktizieren.
 
 ## Konzept
-### Spielanleitung
-Es gibt **zwei Modi**:
-- Lernmodus
-- Freestyle
+### Detaillierte Spielbeschreibung
+Der **SALSA TACO** ist ein interaktiver, sprechender Tanzlehrer, der dich durch verschiedene Tanzschritte fuehrt. Das System besteht aus zwei Hauptkomponenten:
+1. **Der Taco**, ein sprechender Assistent mit Display, Knoepfen und Lautsprecher
+2. **Das Board**, eine Fussmatte mit fuenf Distanzsensoren, die deine Schritte erkennt
+   
+Das Spiel hat zwei Modi: **Lernmodus** und **Freestyle**.
+
 #### Lernmodus
-Hier lernst du Tanzen Schritt für Schritt.
+Im Lernmodus wirst du vom Taco durch eine Reihe vorgegebener Schritte gefuehrt, die auf dem Display sichtbar gemacht werden.
 
 **So funktioniert’s:**
-1.	Drücke den blauen Knopf.
-2.	Stelle dich auf die Fussmatte.
-3.	Wenn du bereit bist zu tanzen, drücke den blauen Knopf erneut.
-4.	Der Taco zeigt dir auf seinem Display, wohin du treten sollst.
-5.	Du trittst genau auf das passende Feld des Boards.
+1.	**Start**
+   Du drueckst den blauen Knopf, um den Lernmodus zu aktivieren.
+   Der Taco begruesst dich und erklaert kurz, was zu tun ist.
+2. **Positionieren**
+   Du stellst dich auf das Board.
+   Die Distanzsensoren pruefen, ob du bereitstehst.
+3. **Startsignal**
+   Drueckst du erneut den blauen Knopf, startet Level 1.
+   Gleichzeitig zeigt das Display die Felder an, auf die du drauftreten musst.
+4. **Schritterkennung**
+   Jeder Sensor des Boards entspricht einem Feld: vorne, hinten, links, rechts, Mitte.
+   Trittst du auf das richtige Feld, erkennt der Distanzsensor deine Bewegung.
+5. **Timing**
+   Jedes Level hat ein kleines Zeitfenster, in dem der richtige Schritt gemacht werden muss (z. B. 1–2 Sekunden).
+   Ein Schritt zaehlt nur, wenn Sensor + Zeit stimmen.
+
+**Levelsystem:**
+Es gibt 5 Levels, die sich in Schwierigkeit unterscheiden.
    
-**Regeln:**
+**Fehler und Neustart:**
 - Machst du die richtigen Schritte eines Levels, gibt es ein Level Up.
 - Machst du einen Fehler, hast du das Spiel verloren und fängst wieder
   bei Level 1 an.
   
-**Levels:**
-Es gibt 5 Levels, die immer schwieriger werden.
+
 
 ### Freestyle 
-Im Freestyle-Modus kannst du tanzen wie du willst.
+Der Freestyle-Modus erlaubt freies Tanzen, ohne Bewertung oder Levelstruktur.
 
 **So funktioniert’s:**
 1.	Drücke den roten Knopf.
-2.	Stelle dich auf die Fussmatte.
+2.	Stelle dich auf das Board.
 3.	Wenn du bereit bist zu tanzen, drücke den roten Knopf erneut.
-4.	Du kannst frei tanzen. Der Taco bewertet deine Schritte nicht.
+4.	Der Taco spielt Musik ab und du kannst dich frei bewegen.
 
 ## Anforderungen
 Um dieses Projekt nachzubauen, benötigst du:
+
+## Musik
+In beiden Modi spielt der DFPlayer passende Salsa-Musik ab:
+- Im Lernmodus aendert sich die Musik pro Level
+- Im Freestyle laeuft die Musik zufällig.
 
 ### Hardware 
 **Taco:** 
