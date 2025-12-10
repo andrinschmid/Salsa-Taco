@@ -91,10 +91,9 @@ Um dieses Projekt nachzubauen, benötigst du:
 ## Aufbau / Installation
 
 ### Verkabelung
-**Taco:**
+
 ![Verkabelung Taco](Verkabelung_Taco.png)
 
-**Board:**
 ![Verkabelung Board](Verkabelung_Board.png)
 
 ### Code hochladen
