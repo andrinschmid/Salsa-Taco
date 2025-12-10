@@ -4,24 +4,24 @@ Er ermöglicht, spielerisch Tanzschritte mittels einer Fussmatte und konkreten A
 
 ## Konzept
 ### Detaillierte Spielbeschreibung
-Der **SALSA TACO** ist ein interaktiver, sprechender Tanzlehrer, der dich durch verschiedene Tanzschritte fuehrt. Das System besteht aus zwei Hauptkomponenten:
-1. **Der Taco**, ein sprechender Assistent mit Display, Knoepfen und Lautsprecher
-2. **Das Board**, eine Fussmatte mit fuenf Distanzsensoren, die deine Schritte erkennt
+Der **SALSA TACO** ist ein interaktiver, sprechender Tanzlehrer, der dich durch verschiedene Tanzschritte führt. Das System besteht aus zwei Hauptkomponenten:
+1. **Der Taco**, ein sprechender Assistent mit Display, Knoepfen und Lautsprecher.
+2. **Das Board**, eine Fussmatte mit fünf Distanzsensoren, die deine Schritte erkennt.
    
 Das Spiel hat zwei Modi: **Lernmodus** und **Freestyle**.
 
 #### Lernmodus
-Im Lernmodus wirst du vom Taco durch eine Reihe vorgegebener Schritte gefuehrt, die auf dem Display sichtbar gemacht werden.
+Im Lernmodus wirst du vom Taco durch eine Reihe vorgegebener Schritte geführt, die auf dem Display sichtbar gemacht werden.
 
 **So funktioniert’s:**
 1.	**Start**
    Du drueckst den blauen Knopf, um den Lernmodus zu aktivieren.
-   Der Taco begruesst dich und erklaert kurz, was zu tun ist.
+   Der Taco begrüsst dich und erklärt kurz, was zu tun ist.
 2. **Positionieren**
    Du stellst dich auf das Board.
-   Die Distanzsensoren pruefen, ob du bereitstehst.
+   Die Distanzsensoren prüfen, ob du bereitstehst.
 3. **Startsignal**
-   Drueckst du erneut den blauen Knopf, startet Level 1.
+   Drückst du erneut den blauen Knopf, startet Level 1.
    Gleichzeitig zeigt das Display die Felder an, auf die du drauftreten musst.
 4. **Schritterkennung**
    Jeder Sensor des Boards entspricht einem Feld: vorne, hinten, links, rechts, Mitte.
@@ -49,13 +49,13 @@ Der Freestyle-Modus erlaubt freies Tanzen, ohne Bewertung oder Levelstruktur.
 3.	Wenn du bereit bist zu tanzen, drücke den roten Knopf erneut.
 4.	Der Taco spielt Musik ab und du kannst dich frei bewegen.
 
-## Anforderungen
-Um dieses Projekt nachzubauen, benötigst du:
-
 ## Musik
 In beiden Modi spielt der DFPlayer passende Salsa-Musik ab:
 - Im Lernmodus aendert sich die Musik pro Level
 - Im Freestyle laeuft die Musik zufällig.
+
+## Anforderungen
+Um dieses Projekt nachzubauen, benötigst du:
 
 ### Hardware 
 **Taco:** 
