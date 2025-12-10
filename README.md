@@ -4,28 +4,22 @@ Er ermöglicht, spielerisch Tanzschritte mittels einer Fussmatte und konkreten A
 
 ## Konzept
 ### Spielmodi
-
 Es gibt **zwei Modi**:
 - Lernmodus
 - Freestyle
-
 #### Lernmodus
-
 Hier lernst du Tanzen Schritt für Schritt.
-
 **So funktioniert’s:**
 1.	Drücke den blauen Knopf.
 2.	Stelle dich auf die Fussmatte.
 3.	Wenn du bereit bist zu tanzen, drücke den blauen Knopf erneut.
 4.	Der Taco zeigt dir auf seinem Display, wohin du treten sollst.
 5.	Du trittst genau auf das passende Feld des Boards.
-
 **Regeln:**
 - Machst du die richtigen Schritte eines Levels, gibt es ein Level Up.
 - Machst du einen Fehler, hast du das Spiel verloren und fängst wieder
   bei Level 1 an.
-
-*Levels:*
+**Levels:**
 Es gibt 5 Levels, die immer schwieriger werden.
 
 ### Freestyle 
