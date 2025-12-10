@@ -40,7 +40,7 @@ Es gibt 5 Levels, die sich in Schwierigkeit unterscheiden.
   
 
 
-### Freestyle 
+#### Freestyle 
 Der Freestyle-Modus erlaubt freies Tanzen, ohne Bewertung oder Levelstruktur.
 
 **So funktioniert’s:**
