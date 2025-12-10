@@ -82,8 +82,9 @@ Um dieses Projekt nachzubauen, benötigst du:
 
 ### Code hochladen
 * Im src-Ordner befinden sich zwei Unterordner:
-* - taco → diesen Code lädst du ausschließlich auf den Arduino im Taco
-* - board → diesen Code lädst du ausschließlich auf den Arduino im Board
+* - taco → diesen Code lädst du ausschliesslich auf den Arduino im Taco
+
+* - board → diesen Code lädst du ausschliesslich auf den Arduino im Board
 * Installiere die oben aufgeführten Bibliotheken auf dem jeweiligen Arduino.
 
 * ...
