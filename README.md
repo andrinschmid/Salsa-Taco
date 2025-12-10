@@ -63,7 +63,7 @@ Um dieses Projekt nachzubauen, benötigst du:
 * [MicroPython I2C 16x2 LCD driver](https://github.com/ubidefeo/micropython-i2c-lcd)
 * [sh1106 OLED Library](https://github.com/robert-hh/SH1106/)
 * [DFPlayer Mini Library für MicroPython](https://github.com/sebromero/micropython-dfplayer)
-* [Modulino Distance] https://github.com/arduino/arduino-modulino-mpy/blob/main/docs/api.md#modulino.distance.ModulinoDistance)
+* [Modulino Distance](https://github.com/arduino/arduino-modulino-mpy/blob/main/docs/api.md#modulino.distance.ModulinoDistance)
 
 
 ## Aufbau / Installation
