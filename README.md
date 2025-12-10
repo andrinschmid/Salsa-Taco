@@ -51,8 +51,8 @@ Der Freestyle-Modus erlaubt freies Tanzen, ohne Bewertung oder Levelstruktur.
 
 ### Musik
 In beiden Modi spielt der DFPlayer passende Salsa-Musik ab:
-- Im Lernmodus aendert sich die Musik pro Level
-- Im Freestyle laeuft die Musik zufällig.
+- Im Lernmodus ändert sich die Musik pro Level
+- Im Freestyle läuft die Musik zufällig.
 
 ## Anforderungen
 Um dieses Projekt nachzubauen, benötigst du:
