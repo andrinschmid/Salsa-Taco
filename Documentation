@@ -1,0 +1,73 @@
+# My Physical Computing project
+Der **SALSA TACO** ist ein sprechender Tanzlehrer in Form eines Tacos.
+Er ermöglicht, spielerisch Tanzschritte mittels einer Fussmatte und konkreten Anweisungen zu erlernen und mit passender Musik zu praktizieren.
+
+## Concept
+
+### How to Play
+
+Es gibt **zwei Modi**:
+  - Lernmodus
+  - Freestyle
+
+#### Lernmodus
+
+Hier lernst du Tanzen Schritt für Schritt.
+
+**So funktioniert’s:**
+1.	Drücke den blauen Knopf.
+2.	Stelle dich auf die Fussmatte.
+3.	Wenn du bereit bist zu tanzen, drücke den blauen Knopf erneut.
+4.	Der Taco zeigt dir auf seinem Display, wohin du treten sollst.
+5.	Du trittst genau auf das passende Feld des Boards.
+
+**Regeln:**
+- Machst du die richtigen Schritte eines Levels, gibt es ein Level Up.
+- Machst du einen Fehler, hast du das Spiel verloren und fängst wieder
+  bei Level 1 an.
+
+*Levels:*
+Es gibt 5 Levels, die immer schwieriger werden.
+
+### Freestyle 
+
+Im Freestyle-Modus kannst du tanzen wie du willst.
+
+**So funktioniert’s:**
+1.	Drücke den roten Knopf.
+2.	Stelle dich auf die Fussmatte.
+3.	Wenn du bereit bist zu tanzen, drücke den roten Knopf erneut.
+4.	Du kannst frei tanzen. Der Taco bewertet deine Schritte nicht.
+
+## Requirements
+To build this project you will need:
+
+### Hardware
+* [An Arduino Nano ESP32](https://store.arduino.cc/products/nano-esp32-with-headers)
+* A Grove RGB LCD Display 16x2
+* An RGB LED Ring
+* 2 Buttons
+* A soldering iron
+* Solder
+* USB-C cable
+* A USB-C power bank
+* ...
+### Software
+* [MicroPython](https://micropython.org/)
+* [Arduino Lab for MicroPython](https://labs.arduino.cc/en/labs/micropython)
+* [Arduino MicroPython Installer](https://labs.arduino.cc/en/labs/micropython-installer)
+* ...
+### Libraries
+* [MicroPython-Button](https://github.com/ubidefeo/MicroPython-Button)
+* [MicroPython I2C 16x2 LCD driver](https://github.com/ubidefeo/micropython-i2c-lcd)
+* ...
+
+## How to build
+### Wiring
+Add here a photo or diagram about how to connect the components
+### Uploading the code
+* Copy the content of your `src` from your computer to your board
+* Install the libraries listed above
+* ...
+### Feedback and questions
+If you are interested in this project and need to ask questions get in touch with us over Instagram/TikTok/etc/etc
