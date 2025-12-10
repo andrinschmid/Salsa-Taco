@@ -103,6 +103,7 @@ Im src-Ordner befinden sich zwei Unterordner:
 - **board** → Dieser Code wird ausschließlich auf den Arduino des Boards hochgeladen.
    - Board.py ist das Hauptprogramm des Boards.
    - StepManager.py und espnow_manager.py sind zusätzliche Bibliotheken, die ebenfalls benötigt werden.
+
 Stelle sicher, dass die oben aufgeführten Bibliotheken auf dem jeweiligen Arduino installiert sind.
 
 ### Feedback und Fragen
