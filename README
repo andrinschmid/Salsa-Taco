@@ -75,18 +75,16 @@ Um dieses Projekt nachzubauen, benötigst du:
 
 ### Verkabelung
 **Taco:**
-![Verkabelung Taco](Verkabelung_Taco.jpg)
+![Verkabelung Taco](Verkabelung_Taco.png)
 
 **Board:**
-![Verkabelung Board](Verkabelung_Board.jpg)
+![Verkabelung Board](Verkabelung_Board.png)
 
 ### Code hochladen
 * Im src-Ordner befinden sich zwei Unterordner:
 * - taco → diesen Code lädst du ausschliesslich auf den Arduino im Taco
-
 * - board → diesen Code lädst du ausschliesslich auf den Arduino im Board
 * Installiere die oben aufgeführten Bibliotheken auf dem jeweiligen Arduino.
 
-* ...
 ### Feedback und Fragen
 Wenn du dich für dieses Projekt interessierst oder Fragen hast, kannst du gerne über Instagram, TikTok oder andere Kanäle mit uns Kontakt aufnehmen.
