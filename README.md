@@ -58,7 +58,7 @@ In beiden Modi spielt der DFPlayer passende Salsa-Musik ab:
 Um dieses Projekt nachzubauen, benötigst du:
 
 ### Hardware 
-**Taco** 
+**Taco:** 
 * [Ein Arduino Nano ESP32](https://store.arduino.cc/products/nano-esp32-with-headers)
 * Ein Dual Button Unit 
 * Ein Grove LCD Display 16x2 
@@ -67,7 +67,7 @@ Um dieses Projekt nachzubauen, benötigst du:
 * Ein Battery Pack 
 * Ein Grove hub 
 
-**Board** 
+**Board:** 
 * [Ein Arduino Nano ESP32](https://store.arduino.cc/products/nano-esp32-with-headers) 
 * 5 Modulino Distanzsensoren
 * Ein USB-C Kabel 
@@ -97,10 +97,10 @@ Um dieses Projekt nachzubauen, benötigst du:
 
 ### Code hochladen
 Im src-Ordner befinden sich zwei Unterordner:
-- **taco** → Dieser Code wird ausschließlich auf den Arduino des Tacos hochgeladen.
+- **taco:**: Dieser Code wird ausschließlich auf den Arduino des Tacos hochgeladen.
    - Taco.py ist das Hauptprogramm des Tacos.
    - StepManager.py und espnow_manager.py sind zusätzliche Bibliotheken, die ebenfalls benötigt werden.
-- **board** → Dieser Code wird ausschließlich auf den Arduino des Boards hochgeladen.
+- **board:** Dieser Code wird ausschließlich auf den Arduino des Boards hochgeladen.
    - Board.py ist das Hauptprogramm des Boards.
    - StepManager.py und espnow_manager.py sind zusätzliche Bibliotheken, die ebenfalls benötigt werden.
 
