@@ -10,6 +10,7 @@
   <img src="Board.png" width="45%">
 </p>
 
+## Beschreibung
 Der **SALSA TACO** ist ein sprechender Tanzlehrer in Form eines Tacos.
 Er ermöglicht, spielerisch Tanzschritte mittels einer Fussmatte und konkreten Anweisungen zu erlernen und mit passender Musik zu praktizieren.
 
