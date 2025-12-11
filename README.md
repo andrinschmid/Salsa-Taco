@@ -2,7 +2,7 @@
 
 # SALSA TACO
 ## Storytelling Video
-[▶️ Video ansehen](VIDEO_LINK)
+[Video ansehen](VIDEO_LINK)
 
 ## Fotos
 <p align="center">
