@@ -107,5 +107,8 @@ Im **src**-Ordner befinden sich zwei Unterordner:
 
 Stelle sicher, dass die oben aufgeführten Bibliotheken auf dem jeweiligen Arduino installiert sind.
 
+### Code starten
+Starte das Programm `Taco.py` auf deinem Taco und `Board.py` auf deinem Board. Der Taco wird dich anleiten!
+
 ### Feedback und Fragen
 Wenn du dich für dieses Projekt interessierst oder Fragen hast, kannst du gerne über Instagram, TikTok oder andere Kanäle mit uns Kontakt aufnehmen.
