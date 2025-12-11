@@ -13,7 +13,7 @@ Der **SALSA TACO** ist ein interaktiver, sprechender Tanzlehrer, der dich durch 
 Das Spiel hat zwei Modi: **Lernmodus** und **Freestyle**.
 
 #### Lernmodus
-Im Lernmodus wirst du vom Taco durch eine Reihe vorgegebener Schritte geführt, die auf dem Display sichtbar gemacht werden.
+Im Lernmodus wirst du vom Taco durch eine Reihe vorgegebener Schritte geführt, die auf dem Display sichtbar gemacht werden. Hier lernst du Salsa zu tanzen!
 
 **So funktioniert’s:**
 1.	**Start**  
@@ -29,7 +29,7 @@ Im Lernmodus wirst du vom Taco durch eine Reihe vorgegebener Schritte geführt, 
    Jeder Sensor des Boards entspricht einem Feld: vorne, hinten, links, rechts, Mitte.
    Trittst du auf das richtige Feld, erkennt der Distanzsensor deine Bewegung.
 6. **Timing**  
-   Jedes Level hat ein kleines Zeitfenster, in dem der richtige Schritt gemacht werden muss (z. B. 1–2 Sekunden).
+   Jedes Level hat ein kleines Zeitfenster, in dem der richtige Schritt gemacht werden muss (5 Sekunden).
    Ein Schritt zählt nur, wenn Sensor + Zeit stimmen.
 
 **Levelsystem:**
@@ -43,7 +43,7 @@ Es gibt 5 Levels, die sich in Schwierigkeit unterscheiden.
 
 
 #### Freestyle 
-Der Freestyle-Modus erlaubt freies Tanzen, ohne Bewertung oder Levelstruktur.
+Der Freestyle-Modus erlaubt freies Tanzen, ohne Bewertung oder Levelstruktur. Hier kannst du deine gelernten Salsa-Skills zeigen!
 
 **So funktioniert’s:**
 1.	Drücke den roten Knopf.
