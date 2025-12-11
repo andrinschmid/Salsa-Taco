@@ -1,16 +1,13 @@
 ![Banner](Banner.png)
 
 # SALSA TACO
-
-
 ## Storytelling Video
 [▶️ Video ansehen](VIDEO_LINK)
 
 ## Fotos
-![Taco](Banner.png) ![Board](Banner.png)  
 <p align="center">
-  <img src="Banner.png" width="45%">
-  <img src="Banner.png" width="45%">
+  <img src="Taco.png" width="45%">
+  <img src="Board.png" width="45%">
 </p>
 
 Der **SALSA TACO** ist ein sprechender Tanzlehrer in Form eines Tacos.
