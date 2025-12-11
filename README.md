@@ -16,20 +16,19 @@ Das Spiel hat zwei Modi: **Lernmodus** und **Freestyle**.
 Im Lernmodus wirst du vom Taco durch eine Reihe vorgegebener Schritte geführt, die auf dem Display sichtbar gemacht werden.
 
 **So funktioniert’s:**
-1.	**Start**
-   
+1.	**Start**  
    Du drückst den blauen Knopf, um den Lernmodus zu aktivieren.
    Der Taco begrüsst dich und erklärt kurz, was zu tun ist.
-3. **Positionieren**
+3. **Positionieren**  
    Du stellst dich auf das Board.
    Die Distanzsensoren prüfen, ob du bereitstehst.
-4. **Startsignal**
+4. **Startsignal**  
    Drückst du erneut den blan Knopf, startet Level 1.
    Gleichzeitig zeigt das Display die Felder an, auf die du drauftreten musst.
-5. **Schritterkennung**
+5. **Schritterkennung**  
    Jeder Sensor des Boards entspricht einem Feld: vorne, hinten, links, rechts, Mitte.
    Trittst du auf das richtige Feld, erkennt der Distanzsensor deine Bewegung.
-6. **Timing**
+6. **Timing**  
    Jedes Level hat ein kleines Zeitfenster, in dem der richtige Schritt gemacht werden muss (z. B. 1–2 Sekunden).
    Ein Schritt zählt nur, wenn Sensor + Zeit stimmen.
 
