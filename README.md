@@ -7,7 +7,7 @@ Er ermöglicht, spielerisch Tanzschritte mittels einer Fussmatte und konkreten A
 ## Konzept
 ### Detaillierte Spielbeschreibung
 Der **SALSA TACO** ist ein interaktiver, sprechender Tanzlehrer, der dich durch verschiedene Tanzschritte führt. Das System besteht aus zwei Hauptkomponenten:
-1. **Der Taco**, ein sprechender Assistent mit Display, Knoepfen und Lautsprecher.
+1. **Der Taco**, ein sprechender Assistent mit Display, Knöpfen und Lautsprecher.
 2. **Das Board**, eine Fussmatte mit fünf Distanzsensoren, die deine Schritte erkennt.
    
 Das Spiel hat zwei Modi: **Lernmodus** und **Freestyle**.
