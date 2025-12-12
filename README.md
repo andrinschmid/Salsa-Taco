@@ -1,4 +1,4 @@
-![Banner](Banner.png)
+![Banner](media/Banner.png)
 
 # SALSA TACO
 ## Storytelling Video
