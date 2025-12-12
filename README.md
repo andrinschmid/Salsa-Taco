@@ -109,16 +109,16 @@ Um dieses Projekt nachzubauen, benötigst du:
 ### Code hochladen
 Im **src**-Ordner befinden sich zwei Unterordner:
 - **taco:** Dieser Code wird ausschließlich auf den Arduino des Tacos hochgeladen.
-   - `Taco.py` ist das Hauptprogramm des Tacos.
+   - `taco.py` ist das Hauptprogramm des Tacos.
    - `StepManager.py` und `espnow_manager.py` sind zusätzliche Bibliotheken, die ebenfalls benötigt werden.
 - **board:** Dieser Code wird ausschließlich auf den Arduino des Boards hochgeladen.
-   - `Board.py` ist das Hauptprogramm des Boards.
+   - `board.py` ist das Hauptprogramm des Boards.
    - `StepManager.py` und `espnow_manager.py` sind zusätzliche Bibliotheken, die ebenfalls benötigt werden.
 
 Stelle sicher, dass die oben aufgeführten Bibliotheken auf dem jeweiligen Arduino installiert sind.
 
 ### Code starten
-Starte das Programm `Taco.py` auf deinem Taco und `Board.py` auf deinem Board. Der Taco wird dich anleiten!
+Starte das Programm `taco.py` auf deinem Taco und `board.py` auf deinem Board. Der Taco wird dich anleiten!
 
 ### Feedback und Fragen
 Wenn du dich für dieses Projekt interessierst oder Fragen hast, kannst du gerne über Instagram, TikTok oder andere Kanäle mit uns Kontakt aufnehmen.
