@@ -2,12 +2,12 @@
 
 # SALSA TACO
 ## Storytelling Video
-[Video ansehen](VIDEO_LINK)
+[Video ansehen](media/VIDEO_LINK)
 
 ## Fotos
 <p align="center">
   <img src="media/Taco.png" width="45%">
-  <img src="Board.png" width="45%">
+  <img src="media/Board.png" width="45%">
 </p>
 
 ## Beschreibung
@@ -102,9 +102,9 @@ Um dieses Projekt nachzubauen, benötigst du:
 
 ### Verkabelung
 
-![Verkabelung Taco](Verkabelung_Taco.png)
+![Verkabelung Taco](media/Verkabelung_Taco.png)
 
-![Verkabelung Board](Verkabelung_Board.png)
+![Verkabelung Board](media/Verkabelung_Board.png)
 
 ### Code hochladen
 Im **src**-Ordner befinden sich zwei Unterordner:
