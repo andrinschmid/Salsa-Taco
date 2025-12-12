@@ -6,7 +6,7 @@
 
 ## Fotos
 <p align="center">
-  <img src="Taco.png" width="45%">
+  <img src="media/Taco.png" width="45%">
   <img src="Board.png" width="45%">
 </p>
 
