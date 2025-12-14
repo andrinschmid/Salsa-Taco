@@ -7,7 +7,7 @@
 ## Fotos
 <p align="center">
   <img src="media/Taco.png" width="50%">
-  <img src="media/Board.png" width="40%">
+  <img src="media/Board.png" width="42.5%">
 </p>
 
 ## Beschreibung
