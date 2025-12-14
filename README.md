@@ -102,9 +102,9 @@ Um dieses Projekt nachzubauen, benötigst du:
 
 ### Verkabelung
 
-![Verkabelung Taco](media/Verkabelung_Taco.png)
+![Verkabelung Taco](media/Verkabelung_Taco.pdf)
 
-![Verkabelung Board](media/Verkabelung_Board.png)
+![Verkabelung Board](media/Verkabelung_Board.pdf)
 
 ### Code hochladen
 Im **src**-Ordner befinden sich zwei Unterordner:
