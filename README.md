@@ -2,7 +2,7 @@
 
 # SALSA TACO
 ## Storytelling Video
-[![Video Vorschau](media/Thumbnail.png)](https://github.com/andrinschmid/Salsa-Taco/raw/refs/heads/main/media/Storytelling.mp4)
+[![Video Vorschau](media/Thumbnail_Storytelling.png)](https://github.com/andrinschmid/Salsa-Taco/raw/refs/heads/main/media/Storytelling.mp4)
 
 ## Fotos
 <p align="center">
