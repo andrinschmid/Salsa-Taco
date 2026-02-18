@@ -29,7 +29,7 @@ Das Spiel hat zwei Modi: **Lernmodus** und **Freestyle**.
 #### Lernmodus
 Im Lernmodus wirst du vom Taco durch eine Reihe vorgegebener Schritte geführt, die auf dem Display sichtbar gemacht werden. Hier lernst du Salsa zu tanzen!
 
-** So funktioniert’s: **
+**So funktioniert’s:**
 1.	**Start**  
    Du drückst den blauen Knopf, um den Lernmodus zu aktivieren.
    Der Taco begrüsst dich und erklärt kurz, was zu tun ist.
